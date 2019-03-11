@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelRestService", "HotelRestService\HotelRestService.csproj", "{119BA943-B8B4-49AC-AE37-916B32B4A707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelModel", "HotelModel\HotelModel.csproj", "{535DF9BC-266B-43F1-9DF0-96D8118F9C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestConsumer", "RestConsumer\RestConsumer.csproj", "{CAEE0265-C328-412E-8D0E-12466B284736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{119BA943-B8B4-49AC-AE37-916B32B4A707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{119BA943-B8B4-49AC-AE37-916B32B4A707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{119BA943-B8B4-49AC-AE37-916B32B4A707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535DF9BC-266B-43F1-9DF0-96D8118F9C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535DF9BC-266B-43F1-9DF0-96D8118F9C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535DF9BC-266B-43F1-9DF0-96D8118F9C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535DF9BC-266B-43F1-9DF0-96D8118F9C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEE0265-C328-412E-8D0E-12466B284736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEE0265-C328-412E-8D0E-12466B284736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEE0265-C328-412E-8D0E-12466B284736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEE0265-C328-412E-8D0E-12466B284736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
