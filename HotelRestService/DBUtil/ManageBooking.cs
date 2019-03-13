@@ -6,7 +6,6 @@ namespace HotelRestService.DBUtil
 {
     public class ManageBooking : IManageBooking
     {
-
         public List<Booking> GetAllBookings()
         {
             List<Booking> bookings = new List<Booking>();
